@@ -1,0 +1,7 @@
+logical_xor result = 0
+logical_test result = 1
+
+Notes:
+- logical_xor demonstrates that operand XOR operand produces 0.
+- logical_test uses TEST to check whether 14 is even.
+- In logical_test, result = 1 means even and result = 0 means odd.

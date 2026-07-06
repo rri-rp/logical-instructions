@@ -1,0 +1,5 @@
+The programs exit silently because the lab recommends using GDB to inspect result.
+
+Expected GDB values:
+logical_xor result = 0
+logical_test result = 1
